@@ -2,7 +2,9 @@
 - 👀 I’m interested in ML,AI,Competitive Programming,
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML/AI related projects
-- 📫 How to reach me: dj2001dhaka@gmail.com
+- 📫 How to reach me: 
+      1.dj2001dhaka@gmail.com
+      2.dj01dhaka@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
