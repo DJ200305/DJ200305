@@ -11,14 +11,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DJ200305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ200305&layout=donut&theme=tokyonight" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DJ200305&theme=tokyo-night" />
 
 </div>
