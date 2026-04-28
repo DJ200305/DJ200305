@@ -18,8 +18,6 @@
   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJ200305&theme=tokyonight" /></td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ200305&layout=donut&theme=tokyonight" /></td>
 </tr></table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DJ200305&theme=tokyo-night&area=true&hide_border=true" />
 </div>
 
 ---
@@ -27,7 +25,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,react,tailwind,nodejs,express,postgres,docker,git,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,react,tailwind,nodejs,express,postgres,nginx,ngrokdocker,git,linux&perline=9" />
 </p>
 
 ---
