@@ -25,7 +25,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,react,tailwind,nodejs,express,postgres,nginx,ngrokdocker,git,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,python,pytorch,tensorflow,react,tailwind,nodejs,express,postgres,nginx,ngrok,docker,git,linux&perline=9" />
 </p>
 
 ---
